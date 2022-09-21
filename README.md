@@ -13,7 +13,7 @@ You will have a deadline for Friday 11:59pm to deliver these tasks. To submit yo
 - [ ] Make the changes for this challenges locally
 - [ ] Commit your work whenever a task is done with a message `Task X done`
 - [ ] Push your local branch
-- [ ] Create a PR to the `main` branch
+- [ ] Create a PR to the `master` branch
 
 ## Tasks
 
